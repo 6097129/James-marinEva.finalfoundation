@@ -1,0 +1,30 @@
+.row {background-color: white; opacity: 0.9;}
+.div h1, p{position: relative;}
+*{margin: 0.5em;
+padding: 0; box-sizing: border-box;}
+ h1, p{ text-transform: capitalize;}
+h1 {
+  font-size: 30px; color:cyan;
+}
+p{color:blue;}
+
+body{
+background-image: url("../img/estadio.jpg");
+background-attachment: fixed;
+background-repeat: round;
+}
+img.pequeña{
+width: 45px; height: 45px;
+}
+img.mediana{
+width: 110px; height: 110px;
+}
+img.grande{margin-left:2px;
+width: 900px; height: 450px;
+}
+h6{background-color: red;}
+h3{
+  font-size: 30px; color:cyan;
+}
+footer{ color:green;}
+h4 img{margin-left: 420px; margin-top:-53px; width:75px; height:55px;}
